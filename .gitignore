@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-*.exe
-=======
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -13,4 +10,7 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
->>>>>>> e529a007d3436489024cfb2cffa1ce231bfbd667
+
+*.txt
+
+.vscode/
